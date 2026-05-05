@@ -355,10 +355,5 @@ This follows the ITU-R standard Morse code timing specification. The 1:3:7 ratio
 
 ---
 
-## License
-
-This project is released under the **MIT License** — free to use, modify, and distribute with attribution.
-
----
 
 *Built with Arduino C++ · Python 3 · OpenCV*
